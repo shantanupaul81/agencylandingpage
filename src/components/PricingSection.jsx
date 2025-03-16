@@ -22,7 +22,7 @@ export default function PricingSection() {
       title: "Professional",
       description: "Everything to launch",
       price: "$49",
-      priceAnnual: "$490", // Example discount for annual plan
+      priceAnnual: "$490", 
       features: ["100,000 requests/month", "Email in-app support", "10 users", "10 workspaces"],
       button: "SIGN UP PROFESSIONAL",
       buttonColor: "bg-purple-600 text-white",
