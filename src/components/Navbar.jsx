@@ -154,7 +154,7 @@ export default function Navbar() {
       </nav>
 
       {/* Contact Us Button */}
-      <Link href="/contactus" className="cbg-gradient-to-r from-purple-700 to-purple-500 text-white px-4 py-2 rounded-full shadow-lg hover:opacity-80">
+      <Link href="/contactus" className="bg-blue-600 uppercase text-white px-4 py-2 rounded-full shadow-lg hover:opacity-80">
         Contact Us
       </Link>
     </header>
